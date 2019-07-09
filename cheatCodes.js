@@ -2,7 +2,7 @@ const { GraphQLServer } = require("graphql-yoga");
 const mongoose = require("mongoose");
 require("dotenv").config({ path: "variables.env" });
 
-mongoose.connect(process.env.MONGO_URI).catch(console.log);
+mongoose.connect(process.env.MONGO_URI);
 
 const Pokemon = mongoose.model("Pokemon", {
   name: String,

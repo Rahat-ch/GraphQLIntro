@@ -19,3 +19,5 @@ Link to slides: https://docs.google.com/presentation/d/15lrego1sNsfGMdDTh1duXr0p
 This is part of an intro to GraphQL talk I gave at NYC Bootcampers Anonymous
 
 https://www.meetup.com/NYC-Bootcampers-Anonymous/
+
+URI: MONGO_URI=mongodb+srv://RahatSorting:slytherin123@cluster0-rjmto.mongodb.net/test?retryWrites=true&w=majority
